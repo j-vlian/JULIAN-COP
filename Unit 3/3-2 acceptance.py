@@ -1,6 +1,5 @@
 #Function: This program determines if a student will be admitted or rejected.
 
-
 testScoreString=input("testScore")
 classRankString=input("classRank")
 testScore=int(testScoreString)
